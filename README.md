@@ -261,12 +261,11 @@ Dispute Resolution Management System.
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saddabniyazi&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddabniyazi&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saddabniyazi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddabniyazi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
+
+---
 
 
 ---
@@ -291,13 +290,7 @@ Dispute Resolution Management System.
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saddabniyazi&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
 
 # 💻 Coding Profile
 
