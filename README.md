@@ -168,3 +168,291 @@ AI Software Engineer • Backend Developer • Generative AI Enthusiast
 ```
 
 ---
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 🤖 RepoMentor AI
+
+AI-powered GitHub Repository Documentation Assistant.
+
+### Features
+
+- Repository Analysis
+- RAG Pipeline
+- LangChain
+- ChromaDB
+- Gemini API
+- FastAPI Backend
+
+<a href="https://github.com/saddabniyazi/REPOMENTOR-AI">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🐳 Model-Docker-AI
+
+Production-ready AI application using Docker.
+
+### Features
+
+- Docker
+- FastAPI
+- AI Models
+- REST APIs
+
+<a href="https://github.com/saddabniyazi/Model-Docker-Ai">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🛡 TrustGuard
+
+Security-focused backend platform.
+
+### Features
+
+- Authentication
+- Secure APIs
+- Python Backend
+
+<a href="https://github.com/saddabniyazi/TRUSTGUARD">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## ⚖ DisputeDesk
+
+Dispute Resolution Management System.
+
+### Features
+
+- Dashboard
+- JavaScript
+- Backend APIs
+
+<a href="https://github.com/saddabniyazi/DisputeDesk">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saddabniyazi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddabniyazi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=saddabniyazi&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saddabniyazi&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=saddabniyazi&theme=tokyonight&row=2&column=4&no-frame=true"/>
+
+</p>
+
+---
+
+# 💻 Coding Profile
+
+<p align="center">
+
+<a href="https://codolio.com/profile/saddab">
+
+<img src="https://img.shields.io/badge/Codolio-Visit_Profile-blueviolet?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+<p align="center">
+
+Track my coding journey, problem solving and competitive programming progress on Codolio.
+
+</p>
+
+---
+
+# 📌 Goals for 2026
+
+✅ Build Production Ready AI Applications
+
+✅ Contribute to Open Source
+
+✅ Strengthen DSA & System Design
+
+✅ Master LLMs, RAG & AI Agents
+
+✅ Secure an AI Software Engineer Role
+
+---
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/saddabniyazi/saddabniyazi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</p>
+
+---
+
+# ⚡ Development Philosophy
+
+```text
+✔ Write Clean Code
+
+✔ Build Real World Projects
+
+✔ Learn by Building
+
+✔ Keep Improving Everyday
+
+✔ Share Knowledge
+
+✔ Never Stop Learning
+```
+
+---
+
+# 📚 Currently Exploring
+
+- 🤖 Large Language Models (LLMs)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🧠 AI Agents
+- ⚡ FastAPI
+- 🐳 Docker
+- ☁ Cloud Deployment
+- 📦 Vector Databases
+- 🔥 Backend System Design
+
+---
+
+# 📈 Current Learning Focus
+
+```text
+DSA (C++)       ████████████████████   50%
+
+JavaScript      ██████████             18%
+
+Python          ████████               12%
+
+FastAPI         █████                  8%
+
+GenAI / RAG     █████                  7%
+
+Docker          ███                    5%
+```
+<!--END_SECTION:waka-->
+
+---
+
+# 💬 Developer Quote
+
+<p align="center">
+
+<i>"First, solve the problem. Then, write the code."</i>
+
+</p>
+
+---
+
+# ☕ Support
+
+<p align="center">
+
+If you like my work,
+
+⭐ Star my repositories
+
+🤝 Connect with me on LinkedIn
+
+💻 Follow my coding journey on Codolio
+
+</p>
+
+---
+
+# 🙋 Let's Connect
+
+<p align="center">
+
+<a href="mailto:saddabniyazi1104@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/saddab-niyazi-945748212/">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="https://codolio.com/profile/saddab">
+
+<img src="https://img.shields.io/badge/Codolio-Profile-7B61FF?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=120&section=footer"/>
+
+</p>
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
