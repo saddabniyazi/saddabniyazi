@@ -294,8 +294,7 @@ Dispute Resolution Management System.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=saddabniyazi&theme=tokyonight&row=2&column=4&no-frame=true"/>
-
+https://github-readme-stats-sigma-five.vercel.app/api?username=saddabniyazi&show_icons=true&theme=tokyonight&hide_border=true
 </p>
 
 ---
