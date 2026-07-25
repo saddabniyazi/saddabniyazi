@@ -262,11 +262,12 @@ Dispute Resolution Management System.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saddabniyazi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saddabniyazi&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddabniyazi&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddabniyazi&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
+
 
 ---
 
@@ -294,10 +295,9 @@ Dispute Resolution Management System.
 
 <p align="center">
 
-https://github-readme-stats-sigma-five.vercel.app/api?username=saddabniyazi&show_icons=true&theme=tokyonight&hide_border=true
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=saddabniyazi&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
----
+</p>
 
 # 💻 Coding Profile
 
